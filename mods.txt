@@ -45,8 +45,10 @@ voicechat-fabric-1.18.1-2.2.31.jar
 pickyourpoison-1.0.2.jar
 LSSMPKotlin.jar
 sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar
+YungsApi-1.18.1-Forge-26.jar
 VisualWorkbench-v3.1.0-1.18.1-Fabric.jar
 fabrictailor-1.8.0.jar
+PuzzlesLib-v3.2.1-1.18.1-Fabric.jar
 malilib-fabric-1.18.0-0.10.0-dev.26.jar
 moborigins-1.18-1.8.0.jar
 mushroomorigins-1.2.jar
