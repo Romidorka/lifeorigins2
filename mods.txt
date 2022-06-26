@@ -63,3 +63,4 @@ RoughlyEnoughItems-7.4.446.jar
 eating-animation-1.8.jar
 indium-1.0.2-alpha2+mc1.18.1.jar
 FabricSit-1.7.1.jar
+CraftTweaker-fabric-1.18.1-9.0.80.jar
