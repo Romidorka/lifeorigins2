@@ -65,3 +65,4 @@ indium-1.0.2-alpha2+mc1.18.1.jar
 FabricSit-1.7.1.jar
 IngredientExtensionAPI-fabric-1.18.1-2.0.1.jar
 CraftTweaker-fabric-1.18.1-9.0.80.jar
+boosted-brightness-2.1.1+1.18.2.jar
